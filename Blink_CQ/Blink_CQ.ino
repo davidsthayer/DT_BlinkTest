@@ -1,6 +1,6 @@
 /*
   Blink
-  Blinks on an LED to flash "CQ", repeatedly.Q)
+  Blinks an LED to flash "CQ", repeatedly.
  
   This example code is in the public domain.
  */
