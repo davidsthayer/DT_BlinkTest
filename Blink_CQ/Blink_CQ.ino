@@ -11,7 +11,7 @@
 // Pin 13 has the LED on Teensy 3.0
 // give it a name:
 //int led1 = 11;
-//int led2 = 13;
+//int led2 = 13; //this is our ext pin;
 
 // the setup routine runs once when you press reset:
 /*void setup() {                
