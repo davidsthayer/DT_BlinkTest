@@ -1,6 +1,6 @@
 /*
   Blink
-  Turns on an LED on for one second, then off for one second, repeatedly. (REVISED TO CQ)
+  Blinks on an LED to flash "CQ", repeatedly.Q)
  
   This example code is in the public domain.
  */
